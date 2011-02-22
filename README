@@ -1,0 +1,10 @@
+
+ip-echo
+=======
+A quick way to get your IP. Powered by Google App Engine.
+
+Usage:
+
+  $ curl ip-echo.appspot.com
+  127.0.0.1
+
